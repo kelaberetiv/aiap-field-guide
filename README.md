@@ -9,7 +9,7 @@ For finding your way through the forests of Git branches, mazes of API docs and 
   * analysing data with Python and R 
   * building a platform for data storage, analysis and production
 
-  * developing deep learning products with Tensorflow, Pytorch, MXNet and 
+  * developing deep learning products with Tensorflow, Pytorch and MXNet
 
 
 
