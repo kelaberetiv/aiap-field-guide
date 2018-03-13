@@ -13,7 +13,21 @@
 
 * Python for Data Analysis by Wes Mckinney
 
+* Nate Batchelder: Loop like a Native
+
 ### Extension Question
 
 How would you describe Python's Object-Oriented System? How does Python's design help \(or hinder!\) the iterative process of analysing data?
+
+### Roundup
+
+What went well?
+
+What didn't go well?
+
+What did we learn?
+
+What would we do differently?
+
+How can we learn more effectively?
 

@@ -20,3 +20,15 @@
 
 R, like Python, is also an Object Oriented Programming language. How does R's tidyverse help \(or hinder!\) our thought processes when we analyse data?
 
+### Roundup
+
+What went well?
+
+What didn't go well?
+
+What did we learn?
+
+What would we do differently?
+
+How can we learn more effectively?
+

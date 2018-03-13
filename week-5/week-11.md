@@ -12,5 +12,9 @@
 
 ### Extension Question
 
-How is MXNet different from Tensorflow from a design perspective? 
+How is MXNet different from Tensorflow from a design perspective?
+
+### Roundup 
+
+Be prepared to discuss a research paper given out the week before 
 

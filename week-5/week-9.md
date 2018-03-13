@@ -17,5 +17,11 @@ Construct an image classifier in Jupyter Notebook.
 
 Explore the Tensorflow code base
 
-Research how to deploy your app as a service via Xamarin/Android
+What are the options for deploying your app? Xamarin and Android Studio are some starting points.
+
+### Roundup 
+
+Be prepared to discuss a research paper given out the week before 
+
+
 

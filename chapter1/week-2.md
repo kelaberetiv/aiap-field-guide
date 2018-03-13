@@ -24,3 +24,7 @@
 
 Find two examples of machine learning pipelines in production \(Gmail's Smart Reply and the Google Play Store Recommenders are an example\). Compare and contrast these two pipelines.
 
+### Roundup
+
+Be prepared to present and answer questions on your project \(chosen randomly\)
+

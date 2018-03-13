@@ -15,3 +15,7 @@ Apply a recurrent neural network to the TED Talk Dataset \(accessible from Kaggl
 
 Many published deep learning papers claim state-of-the-art performance. How would you evaluate this claim? How might you evaluate the algorithms usefulness in production?
 
+### Roundup 
+
+Be prepared to discuss a research paper given out the week before 
+
