@@ -16,3 +16,10 @@ http://catb.org/jargon/html/personality.html
 
 Break down a problem, understand how things work, consider how to optimise a system 
 
+### A de-facto way to test whether you've understood something: 
+
+ - Can I troubleshoot the workflow? 
+ - Can I customise the workflow? 
+ - How does my workflow/implementation compare to an industry exemplar? For example, if I implement a chatbot, what is the difference in quality between my product and the Google Assistant? 
+
+
