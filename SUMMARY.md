@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Values](values.md)
 * [You Will Need](some-helpful-definitions.md)
 * [A Month of ML](chapter1.md)
   * [Week 1](chapter1/week-1.md)
