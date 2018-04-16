@@ -1,4 +1,4 @@
-# Deep Learning Part II
+# Deep Learning 
 
 ### Your Mission
 
