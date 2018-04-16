@@ -6,10 +6,6 @@ For finding your way through the forests of Git branches, mazes of API docs and 
 
 * Develop an Artificial Intelligence product from start-to-finish by:
 
-  * analysing data with Python and R 
-  * building a platform for data storage, analysis and production
-
-  * developing deep learning products with Tensorflow, Pytorch and MXNet
-
-
-
+  * analyse and model data a in a reproducible manner 
+  * building a platform for data storage and management
+  * productionise deep learning models with containers
