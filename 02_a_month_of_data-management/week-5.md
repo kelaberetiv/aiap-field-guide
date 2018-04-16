@@ -4,7 +4,7 @@
 
 # Your Mission: 
 
-1. Refer to the Official Documentation of the Data Architecture technologies listed below: 
+1. Refer to the web resources (wikipedia/developer documentation etc) of the Data Architecture technologies listed below: 
 2. Research what an exemplar solution for each technology looks like. 
 3. Build an example 
 
