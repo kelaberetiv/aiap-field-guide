@@ -27,15 +27,8 @@ For examples of how to construct and present an analysis:
 
 How would you describe Python's Object-Oriented System? How does Python's design help \(or hinder!\) the iterative process of analysing data?
 
-### Roundup
+### Primer and Roundup
 
-What went well?
-
-What didn't go well?
-
-What did we learn?
-
-What would we do differently?
-
-How can we learn more effectively?
+Primer: [The importance of metric design and problem scoping](https://medium.com/what-to-build/is-anything-worth-maximizing-d11e648eb56f) 
+Roundup Questions: What went well and what didn't? What did we learn? What would we do differently? How can we learn more effectively?
 
