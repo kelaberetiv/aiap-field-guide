@@ -8,10 +8,12 @@ Two goals this week:
 ### Resources
 **Visualisation API Docs**: 
   * bqplot, glueviz, bokeh, ipywidgets
+
 **Handling Large Data API Docs**: 
   * bcolz, HDF5, pyarrow, pickle
   * Dask
   * Numba
+
 **Deep Learning for NLP and Image Processing**
   * Tensorflow Quickstarts
   * Pytorch Quickstarts
@@ -19,13 +21,16 @@ Two goals this week:
   * Oxford NLP Lectures on Youtube
   * cs231n from Stanford for image classification
   * audit the Coursera's deeplearning.ai 
+
 **Handling Deep Learning Models with Python**
   * MXNet Docs
   * Tensorflow Docs
   * Pytorch Docs
   * Keras Docs
+
 **Deep Learning Best Practices** 
   * audit the course on deeplearning.ai
+
 **How would you communicate with a visualisation?** 
 A classic but a great primer on communicating with data:
 
