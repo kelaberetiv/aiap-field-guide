@@ -1,6 +1,6 @@
-Work through each week's mission from Week 1 to Week 4
+# Work through each week's mission from Week 1 to Week 4
 
-Learning Outcomes: 
+# Learning Outcomes: 
 * Reproducibility
 * Metric Design 
 * Problem Scoping
