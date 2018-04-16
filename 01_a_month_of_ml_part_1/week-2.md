@@ -2,7 +2,7 @@
 
 ### Your Mission
 
-1. Last week we set up a local reproducible DS environment with one Jupyter notebook. Now we want to extend reprodubility to multiple scripts and workflows with multiple stages. First, set up another [`cookie cutter data science`]project (https://drivendata.github.io/cookiecutter-data-science/). 
+1. Last week we set up a local reproducible DS environment with one Jupyter notebook. Now we want to extend reprodubility to multiple scripts and workflows with multiple stages. First, set up another [`cookie cutter data science` project] (https://drivendata.github.io/cookiecutter-data-science/). 
 2. Read [*The Practice of Reproducible Research*](https://www.gitbook.com/book/bids/the-practice-of-reproducible-research/details) for what real-world data workflows and pipelines look like. Construct a similar multi-stage workflow either with Python scripts or upyter Notebooks. 
 3. Construct a narrative and message around your analysis. 
 
