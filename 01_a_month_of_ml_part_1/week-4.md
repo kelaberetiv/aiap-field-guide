@@ -10,7 +10,8 @@ Two goals this week:
   * bqplot, glueviz, bokeh, ipywidgets
 **Handling Large Data API Docs**: 
   * bcolz, HDF5, pyarrow, pickle
-  * scikit-image
+  * Dask
+  * Numba
 **Deep Learning for NLP and Image Processing**
   * Tensorflow Quickstarts
   * Pytorch Quickstarts
