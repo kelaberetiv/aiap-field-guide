@@ -11,7 +11,7 @@
 
 **Data Architecture technologies listed in increasing level of flexibility:** 
 
-Object Storage
+**Object Storage**
 * Azure Blob Storage for Cloud
 * Minio for on-prem
 
