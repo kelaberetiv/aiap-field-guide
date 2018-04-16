@@ -17,3 +17,7 @@ Including but not limited to:
 1. Designing Data Intensive Applications by Martin Klepmann .  
 2. https://medium.com/airbnb-engineering/airflow-a-workflow-management-platform-46318b977fd8 . 
 3. https://medium.com/pachyderm-data/the-5-stages-of-grief-940d691ec139 . 
+
+# Side project from now till end of Month 3  
+
+Building your big data platform for machine learning and artificial intelligence workloads with Raspberry Pis
