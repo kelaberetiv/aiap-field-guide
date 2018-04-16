@@ -5,3 +5,7 @@
 # Your Mission: 
 
 This week is a continuation of week 5. See week 5 for what is needed. 
+
+# Side project from now till end of Month 3  
+
+Building your big data platform for machine learning and artificial intelligence workloads with Raspberry Pis
