@@ -1,4 +1,4 @@
-Work through the weeks from 01 to 04. 
+Work through each week's mission from Week 1 to Week 4
 
 Learning Outcomes: 
 * Reproducibility
