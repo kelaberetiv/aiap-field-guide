@@ -18,10 +18,13 @@ your model runs. Work with what you have.
 
 ## The absolute minimum
 
-We support Windows 10 running WSL, macOS and Linux as the operating systems of choice in the
-curriculum. If you are running anything else, please consider running a Linux
-distribution such as Ubuntu as a VM and use that as your development
-environment.
+We support [Windows 10 running Windows Subsystem for Linux
+(WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10), macOS and
+Linux as the operating systems of choice in the curriculum. 
+
+If you are running
+anything else, please consider running a virtualisation software like [VirtualBox](https://www.virtualbox.org/) or [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) and install a Linux distribution such as [Ubuntu](https://www.ubuntu.com/download/desktop) as a
+VM and use that as your development environment.
 
 At the minimum, please install the following:
 
