@@ -8,7 +8,7 @@ Again, map out initial ideas to make them explicit
 
 ## 2. Read through these resources/checklist
 
-a. [Steps towards reproducible researsh](http://kbroman.org/steps2rr/)
+a. [Steps towards reproducible research](http://kbroman.org/steps2rr/) .
 b. [Opinionated Analysis Development] (https://peerj.com/preprints/3210/)
 
 ## 3. Does this change how we previously approached reproducibility?
