@@ -1,7 +1,18 @@
 # Developing an end-to-end ML Product Pipeline 
 
 ## Deliverable: 
-By the end of this session you should have one Jupyter Notebook for each academy module 
+By the end of this session you should have: 
+0. github repo containing your artefacts and push 
+1. read through the tutorial series. in your own words, summarise each stage of the AI Journey: From Ideation to Launch . 
+- Ideation and Planning
+- Technology and Infrastructure
+- Data and Modelling (Images and Music)
+- App Development and Deployment
+
+2. implemented these interactive exercises in Jupyter Notebook:
+- [Set Up a Portable Experimental Environment for Deep Learning with Docker](https://software.intel.com/en-us/articles/hands-on-ai-part-10-set-up-a-portable-experimental-environment-for-deep-learning-with)
+- [Tensorflow Without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/index.html?index=..%2F..%2Findex#0)
+- [Deployment: Hands-on AI Part 24: TensorFlow Serving for AI API and Web App Deployment](https://software.intel.com/en-us/articles/hands-on-ai-part-24-tensorflow-serving-for-ai-api-and-web-app-deployment)
 
 ## 1. Primer: Think/Puzzle/Explore 
 
