@@ -4,17 +4,15 @@ In this workshop we will take the Jupyter Notebooks you have put together yester
 
 ## 1. Primer: what does reproducibility involve? 
 
-Again, map out initial ideas to make them explicit
+Again, map out initial ideas to make them explicit. The end goal of this exercise is to:
 
-End goal:
+- create a visible record of preliminary ideas especially misconceptions/overly simplistic ideas
+- leave space for later record of thought evolution
 
-visible record of preliminary ideas especially misconceptions/overly simplistic ideas
-leave space for later record of thought evolution
-Materials:
-
-individual whiteboard space/paper
-markers
-a. What do you think you know about this topic? (map prior knowledge) b. What questions or puzzles do you have? (identify areas of interest to pursue) c. What does the topic make you want to explore? (groundwork for independent inquiry)
+Questions: 
+- What do you think you know about this topic? (map prior knowledge)
+- What questions or puzzles do you have? (identify areas of interest to pursue) 
+- What does the topic make you want to explore? (groundwork for independent inquiry)
 
 ## 2. Read through these resources/checklist
 
