@@ -3,7 +3,7 @@
 ## Deliverable: 
 By the end of this session you should have one Jupyter Notebook for each academy module 
 
-# 1. Primer: Think/Puzzle/Explore 
+## 1. Primer: Think/Puzzle/Explore 
 
 End goal: 
 - visible record of preliminary ideas especially misconceptions/overly simplistic ideas
@@ -17,9 +17,9 @@ a. What do you *think* you know about this topic? (map prior knowledge)
 b. What questions or *puzzles* do you have? (identify areas of interest to pursue) 
 c. What does the topic make you want to *explore?* (groundwork for independent inquiry) 
 
-# 2. Quiet work on modules 
+## 2. Quiet work on modules 
 
-# 3. Wrap-up : 
+## 3. Wrap-up : 
 
 Share as a whole group to probe thinking and explanations
 a. I used to think..
