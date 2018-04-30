@@ -17,7 +17,7 @@ Questions:
 ## 2. Read through these resources/checklist
 
 - [Steps towards reproducible research](http://kbroman.org/steps2rr/) 
-- [Opinionated Analysis Development] (https://peerj.com/preprints/3210/)
+- [Opinionated Analysis Development](https://peerj.com/preprints/3210/)
 
 ## 3. Does this change how we previously approached reproducibility?
 Etherpad exercise
