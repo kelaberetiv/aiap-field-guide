@@ -10,9 +10,9 @@ Again, map out initial ideas to make them explicit. The end goal of this exercis
 - leave space for later record of thought evolution
 
 Questions: 
-- What do you think you know about this topic? (map prior knowledge)
-- What questions or puzzles do you have? (identify areas of interest to pursue) 
-- What does the topic make you want to explore? (groundwork for independent inquiry)
+- What do you think you **know** about this topic? (map prior knowledge)
+- What questions or **puzzles** do you have? (identify areas of interest to pursue) 
+- What does the topic make you want to **explore**? (groundwork for independent inquiry)
 
 ## 2. Read through these resources/checklist
 
