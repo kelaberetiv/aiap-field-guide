@@ -14,8 +14,8 @@ Materials:
 - markers
 
 a. What do you *think* you know about this topic? (map prior knowledge) . 
-b. What questions or *puzzles* do you have? (identify areas of interest to pursue) .  
-c. What does the topic make you want to *explore?* (groundwork for independent inquiry) .  
+b. What questions or *puzzles* do you have? (identify areas of interest to pursue) . 
+c. What does the topic make you want to *explore?* (groundwork for independent inquiry) . 
 
 ## 2. Quiet work on modules 
 
