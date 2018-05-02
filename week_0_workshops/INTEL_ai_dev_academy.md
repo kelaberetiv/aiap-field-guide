@@ -3,7 +3,7 @@
 ## Deliverable: 
 By the end of this session you should have:   
 
-1. read through the tutorial series. in your own words, summarise each stage of the **AI Journey: From Ideation to Launch** . 
+1. Read through the [Hands-on AI tutorial series](https://software.intel.com/en-us/ai-academy). *In your own words*, summarise each stage of the **AI Journey: From Ideation to Launch** . 
 - Ideation and Planning
 - Technology and Infrastructure
 - Data and Modelling (Images and Music)
