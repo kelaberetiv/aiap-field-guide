@@ -1,9 +1,9 @@
 # Developing an end-to-end ML Product Pipeline 
 
 ## Deliverable: 
-By the end of this session you should have: 
-0. github repo containing your artefacts and push 
-1. read through the tutorial series. in your own words, summarise each stage of the AI Journey: From Ideation to Launch . 
+By the end of this session you should have:   
+
+1. read through the tutorial series. in your own words, summarise each stage of the **AI Journey: From Ideation to Launch** . 
 - Ideation and Planning
 - Technology and Infrastructure
 - Data and Modelling (Images and Music)
@@ -20,9 +20,7 @@ End goal:
 - visible record of preliminary ideas especially misconceptions/overly simplistic ideas
 - leave space for later record of thought evolution
 
-Materials:
-- individual whiteboard space/paper 
-- markers
+Materials: Shared Google Doc
 
 a. What do you *think* you know about this topic? (map prior knowledge) . 
 b. What questions or *puzzles* do you have? (identify areas of interest to pursue) . 
