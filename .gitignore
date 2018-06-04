@@ -20,4 +20,8 @@ _book
 
 # direnv files
 .envrc
+*/*/.envrc
 
+### JupyterNotebook ### 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
