@@ -17,3 +17,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# direnv files
+.envrc
+
