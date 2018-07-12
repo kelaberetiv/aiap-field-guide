@@ -16,3 +16,4 @@
 1. Databricks blog, any youtube video of the AMPLab, Matei Zaharia or a member of the Spark team 
 2. Similarly, any content produced by the creators of these tools
 3. Official documentation 
+4. [Google Borg Paper](https://databricks.com/blog/2015/04/28/project-tungsten-bringing-spark-closer-to-bare-metal.html)
